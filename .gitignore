@@ -1,0 +1,11 @@
+# Node
+node_modules
+pnpm-lock.yaml
+# Python
+.venv
+__pycache__/
+*.pyc
+# IDE
+.vscode/
+# OS
+.DS_Store
